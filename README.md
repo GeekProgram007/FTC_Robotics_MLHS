@@ -3,7 +3,7 @@ All Software Info for FTC Robotics at MLHS
 
 There are files:
   The Code for Robots #10788 and #8866: https://github.com/GeekProgram007/ftc_robotics_code
-  Read.ME_Alik: https://github.com/GeekProgram007/ftc_robotics_code/blob/master/Robotics_README_Alik
+  Read.ME_Alik: https://github.com/GeekProgram007/ftc_robotics_code/blob/master/README.md
   
   More to come!
   
